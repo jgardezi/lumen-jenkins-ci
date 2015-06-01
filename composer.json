@@ -15,7 +15,8 @@
         "sebastian/phpcpd": "*",
         "pdepend/pdepend": "2.1.0",
         "phploc/phploc": "*",
-        "theseer/phpdox": "0.8.*"
+        "theseer/phpdox": "0.8.*",
+        "phing/phing": "2.*"
     },
     "autoload": {
         "psr-4": {

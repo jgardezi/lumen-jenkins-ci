@@ -6,3 +6,6 @@
 !build/phpunit.xml
 !build/phpdox.xml
 build/*
+
+# ignore IDE configurations
+.idea
